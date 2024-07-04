@@ -93,3 +93,6 @@
 .button-80:not(:disabled):active {
   transform: translateY(0.125rem);
 }
+.button-80 > a {
+  text-decoration: none;
+}
